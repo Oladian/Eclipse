@@ -11,7 +11,7 @@ public class Pendulo {
 	/**
 	 * 
 	 * @param longitud, de tipo double
-	 * @return Devuelve el resultado de calcular el periodo
+	 * @return Devuelve el resultado de calcular el período
 	 */
 	public static double calcularPeriodo(double longitud) {
 
